@@ -9,7 +9,7 @@ When you have completed the tutorial be sure to also complete the [Extension Act
 
 Whenever you are creating a new Python project, it is best to stay organized by placing all the files related to the project in the same folder. Create a new folder called `root`.
 
-Inside the folder, create a new `main.py` file.
+Inside the folder, create a new `choose_your_own_adventure.py` file.
 
 ## 2. Planning Out Your Adventure
 
